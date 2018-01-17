@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/all</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/baby</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/cosmetics</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/credit</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/equipment</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/others</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/shop/water</loc>
+	<lastmod>2018-01-17T14:01:30+00:00</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>0.6</priority>
+	</url>
+</urlset>

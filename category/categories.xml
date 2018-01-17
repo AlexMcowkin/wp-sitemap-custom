@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/news</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/partners</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/press</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/procedury</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/restorants</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/reviews</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/reviews_stars</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+
+	<url>
+	<loc>http://enhelbeauty.loc/category/salons</loc>
+	<lastmod>2018-01-17T13:29:57+00:00</lastmod>
+	<changefreq>hourly</changefreq>
+	<priority>0.8</priority>
+	</url>
+</urlset>
